@@ -1,5 +1,5 @@
 # i3 Window Manager (i3wm)
-* i3 Configuration 
+* i3 Configuration      
 
 ## Required Tools: 
 * git 
