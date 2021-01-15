@@ -1,6 +1,4 @@
-# i3-WindowManager
-
-# i3 Window Manager (i3wm):
+# i3 Window Manager (i3wm)
 * i3 Configuration 
 
 ## Required Tools: 
