@@ -284,6 +284,9 @@ exec_always picom -f
 # Setting up Keybindings for applications launc 
 bindsym $mod+b exec firefox -private
 
+# Launch Polybar 
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+
 # Setting up Workspace for Applications
 #for_window [class="firefox"] move to workspace $ws2
 #for_window [class="Pcmanfm"] move to workspace $ws3
