@@ -66,6 +66,12 @@ You might also have to update /etc/X11/xorg.conf or /etc/xorg.conf with the new 
 Now, reload the font cache:
 $ fc-cache -vf
 
+7. Installing Xorg fonts 
+$ sudo pacman -S xorg-fonts-misc
+
+8. Other fonts 
+$ yay -S siji-git ttf-unifont
+
 ```
 
 ## Screenshot 
