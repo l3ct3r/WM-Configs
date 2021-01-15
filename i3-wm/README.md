@@ -27,7 +27,7 @@ This is configuration of i3 Window Manager.
 * [i3-gaps on Arch](https://github.com/Airblader/i3)
 
 ## Setup 
-Setting up DWM(Arch based distributions):
+Setting up i3(Arch based distributions):
 ```
 1. Install i3
 Type the following command in the terminal:
