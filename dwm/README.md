@@ -16,7 +16,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Used Tools](#tools)
-* [Downloading Tools](#doqnload-tools)
 * [Setup](#setup)
 
 ## General info
@@ -25,12 +24,7 @@ This is configuration of Dynamic Window Manager (DWM).
 ## Used Tools
 * [st-Terminal](https://st.suckless.org/)
 * [Dmenu](https://dwm.suckless.org/)
-* [Rofi](https://github.com/davatorium/rofi)
-
-## Downloading Tools 
-* wget https://dl.suckless.org/dwm/dwm-(vesrion).tar.gz
-* wget https://dl.suckless.org/st/st-(version).tar.gz
-* wget https://dl.suckless.org/tools/dmenu-(version).tar.gz
+* [Rofi](https://github.com/davatorium/rofi
 
 ## Setup 
 Setting up DWM(Arch based distributions):
@@ -61,6 +55,29 @@ $ <favorite text editor> .xinitrc or vim .xinitrc
 start your session with:
 $ startx
 
+OR 
+
+--------------- DOWNLOAD USING WGET ---------------
+$ sudo pacman -S wget 
+* wget https://dl.suckless.org/dwm/dwm-(vesrion).tar.gz
+$ sudo tar -xzvf dwm-(version).tar.gz 
+$ cd dwm-(version) 
+$ sudo make clean install 
+
+* wget https://dl.suckless.org/st/st-(version).tar.gz
+$ sudo tar -xzvf st-(version).tar.gz 
+$ cd st-(version) 
+$ sudo make clean install
+
+* wget https://dl.suckless.org/tools/dmenu-(version).tar.gz
+$ sudo tar -xzvf dmenu-(version).tar.gz 
+$ cd dmenu-(version) 
+$ sudo make clean install
+
+$ reboot 
+
+start the new session 
+$ startx 
 ```
 ## Screenshots
 
