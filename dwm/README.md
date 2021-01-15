@@ -16,15 +16,21 @@
 ## Table of contents
 * [General info](#general-info)
 * [Used Tools](#tools)
+* [Downloading Tools](#doqnload-tools)
 * [Setup](#setup)
 
 ## General info
 This is configuration of Dynamic Window Manager (DWM).
 
-## Tools
+## Used Tools
 * [st-Terminal](https://st.suckless.org/)
 * [Dmenu](https://dwm.suckless.org/)
 * [Rofi](https://github.com/davatorium/rofi)
+
+## Downloading Tools 
+* wget https://dl.suckless.org/dwm/dwm-(vesrion).tar.gz
+* wget https://dl.suckless.org/st/st-(version).tar.gz
+* wget https://dl.suckless.org/tools/dmenu-(version).tar.gz
 
 ## Setup 
 Setting up DWM(Arch based distributions):
