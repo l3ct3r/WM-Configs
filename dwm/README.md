@@ -24,7 +24,7 @@ This is configuration of Dynamic Window Manager (DWM).
 ## Used Tools
 * [st-Terminal](https://st.suckless.org/)
 * [Dmenu](https://dwm.suckless.org/)
-* [Rofi](https://github.com/davatorium/rofi
+* [Rofi](https://github.com/davatorium/rofi)
 
 ## Setup 
 Setting up DWM(Arch based distributions):
@@ -80,9 +80,6 @@ start the new session
 $ startx 
 ```
 ## Screenshots
-
-## Inspiration and Source
-* This project is inspired to be created  from [Distro Tube](https://distrotube.com/) and [EF Tech Made Simple](https://ermannoferrari.net/)
 
 # LICENSE 
 >You can check out the full license [here](https://github.com/pkgnpdeb/window-manager-configs/blob/main/dwm/LICENSE)
