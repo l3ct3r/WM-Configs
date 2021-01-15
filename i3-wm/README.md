@@ -76,7 +76,7 @@ $ yay -S siji-git ttf-unifont
 ```
 
 ## Screenshot 
-* i3
+* i3-bar
 * i3-blocks
 * i3-status
 
