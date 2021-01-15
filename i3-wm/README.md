@@ -12,7 +12,6 @@
 * [qutebrowser](https://qutebrowser.org/)
 * [Font Awesome](https://fontawesome.com)
 * [Arch User Repository](https://aur.archlinux.org/packages/yay/)
-* [i3-gaps](https://github.com/Airblader/i3)
 
 ## Table of contents
 * [General info](#general-info)
@@ -24,6 +23,7 @@ This is configuration of i3 Window Manager.
 
 ## Documentation
 * [i3 on Arch](https://wiki.archlinux.org/index.php/I3#Installation)
+* [i3-gaps on Arch](https://github.com/Airblader/i3)
 
 ## Setup 
 Setting up DWM(Arch based distributions):
