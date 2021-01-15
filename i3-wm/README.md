@@ -12,6 +12,7 @@
 * [qutebrowser](https://qutebrowser.org/)
 * [Font Awesome](https://fontawesome.com)
 * [Arch User Repository](https://aur.archlinux.org/packages/yay/)
+* [Polybar Wiki](https://github.com/polybar/polybar/wiki)
 
 ## Table of contents
 * [General info](#general-info)
