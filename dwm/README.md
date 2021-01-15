@@ -56,9 +56,10 @@ start your session with:
 $ startx
 
 ```
+## Screenshots
 
 ## Inspiration and Source
 * This project is inspired to be created  from [Distro Tube](https://distrotube.com/) and [EF Tech Made Simple](https://ermannoferrari.net/)
 
 # LICENSE 
->You can check out the full license [here]()
+>You can check out the full license [here](https://github.com/pkgnpdeb/window-manager-configs/blob/main/dwm/LICENSE)
