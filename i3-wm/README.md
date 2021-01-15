@@ -81,7 +81,11 @@ $ yay -S siji-git ttf-unifont
 * i3-status
 
 ![2021-01-15-081313_1920x1080_scrot](https://user-images.githubusercontent.com/48232101/104700031-ae117a00-573b-11eb-9bf6-b8a75ccd9e2f.png)
+
 * polybar
+
+![2021-01-15-115208_1920x1080_scrot](https://user-images.githubusercontent.com/48232101/104725443-33a42280-575a-11eb-9cea-9e089f0d80d1.png)
+
 
 ## Inspiration and Source
 * This project is inspired to be created  from [EF Tech Made Simple](https://ermannoferrari.net/)
