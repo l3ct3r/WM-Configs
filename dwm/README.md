@@ -80,10 +80,10 @@ start the new session
 $ startx 
 ```
 ## Screenshots
-* Powerline DWM
+* Matrix DWM
 ![xxdl4lmtq4j21](https://user-images.githubusercontent.com/48232101/104844370-faa1b480-58f7-11eb-9a2e-923b854fe4d7.png)
 
-* Matrix DWM
+* Powerline DWM
 ![wfhpwpc2eiw01](https://user-images.githubusercontent.com/48232101/104844372-fc6b7800-58f7-11eb-8fd1-29f0033f7412.png)
 
 
