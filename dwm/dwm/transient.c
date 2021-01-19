@@ -7,7 +7,7 @@
 
 int main(void) {
 	Display *d;
-	Window r, f, t = None;
+	Window r, f, t = None;    
 	XSizeHints h;
 	XEvent e;
 
