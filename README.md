@@ -5,8 +5,8 @@
 
 | 	Tiling Window Managers       | 
 | ------------- |
-| [WM 01 - i3 Window Manager]()		|
-| [WM 02 - Dynamic Window Manager]()		  |
+| [WM 01 - i3 Window Manager](https://cutt.ly/skfIEzt)		|
+| [WM 02 - Dynamic Window Manager](https://kutt.it/hlOTiU)	|
 
 
 ## Required Tools: 
@@ -21,5 +21,5 @@
 * This is configuration files of i3-wm and dwm
 	
 ## Setup 
-* [Setup for i3]()
-* [Setup for DWM]
+* [Setup for i3](https://cutt.ly/XkfIY7o)
+* [Setup for DWM](https://cutt.ly/fkfIOoY)
