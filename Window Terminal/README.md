@@ -16,7 +16,7 @@ This is configuration of window terminal.
 Setting up Window Terminal
 ```
 * Install terminal from MS Store 
-* Navitage to settings from top to config ( visual on overview) 
+* Navitage to settings from top to go to settings.json
 
 ```
 
