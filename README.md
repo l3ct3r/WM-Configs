@@ -1,16 +1,17 @@
-# WM Configuration:
-* Window manager configuration files 
+# Configuration:
+* Configuration Files 
 
 ## Window Managers
 
 | 	Tiling Window Managers       | 
 | ------------- |
-| [WM 01 - i3 Window Manager](https://cutt.ly/skfIEzt)		|
-| [WM 02 - Dynamic Window Manager](https://kutt.it/hlOTiU)	|
+| [i3 Window Manager](https://cutt.ly/skfIEzt)		|
+| [Dynamic Window Manager](https://kutt.it/hlOTiU)	|
+| [Window Terminal]() |
 
 
 ## Required Tools: 
-* Text Editor (VIM/Emacs/Nano)
+* Text Editor (VIM/Emacs/Nano/Brackets)
 * Git 
 
 ## Table of contents
@@ -18,8 +19,9 @@
 * [Setup](#setup)
 
 ## General info
-* This is configuration files of i3-wm and dwm
+* This is configuration file for window managers and window terminal
 	
 ## Setup 
 * [Setup for i3](https://cutt.ly/XkfIY7o)
 * [Setup for DWM](https://cutt.ly/fkfIOoY)
+* [Setup for Window Terminal]()
