@@ -1,13 +1,13 @@
 # Configuration:
 * Configuration Files 
 
-## Window Managers
+## Contents
 
-| 	Tiling Window Managers       | 
+| 	Configuration FIles        | 
 | ------------- |
 | [i3 Window Manager](https://cutt.ly/skfIEzt)		|
 | [Dynamic Window Manager](https://kutt.it/hlOTiU)	|
-| [Window Terminal]() |
+| [Window Terminal](https://kutt.it/YebAdP) 		|
 
 
 ## Required Tools: 
@@ -24,4 +24,4 @@
 ## Setup 
 * [Setup for i3](https://cutt.ly/XkfIY7o)
 * [Setup for DWM](https://cutt.ly/fkfIOoY)
-* [Setup for Window Terminal]()
+* [Setup for Window Terminal](https://kutt.it/YebAdP)
