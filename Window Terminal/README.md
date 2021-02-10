@@ -21,3 +21,4 @@ Setting up Window Terminal
 ```
 
 ## Overview
+![terminal](https://user-images.githubusercontent.com/48232101/107511058-10d82300-6bcd-11eb-81f2-f95b564021af.gif)
