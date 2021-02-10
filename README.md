@@ -7,7 +7,7 @@
 | ------------- |
 | [i3 Window Manager](https://cutt.ly/skfIEzt)		|
 | [Dynamic Window Manager](https://kutt.it/hlOTiU)	|
-| [Window Terminal](https://kutt.it/YebAdP) 		|
+| [Window Terminal](https://cutt.ly/NkYqmvo) 		|
 
 
 ## Required Tools: 
