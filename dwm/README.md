@@ -5,7 +5,6 @@
 * git 
 * Terminal  
 * Text Editor (VIM/Emacs/Nano)
-* Web Browser (For online manual) 
 
 ## Links: 
 * [DWM on Arch](wiki.archlinux.org/index.php/Dwm)
