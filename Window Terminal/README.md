@@ -4,6 +4,7 @@
 ## Required Tools:  
 * Terminal  
 * Text Editor
+
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
@@ -14,7 +15,9 @@ This is configuration of window terminal.
 ## Setup 
 Setting up Window Terminal
 ```
-* Will be Updated soon 
+* Install terminal from MS Store 
+* Navitage to settings from top to config ( visual on overview) 
+
 ```
 
 ## Overview
